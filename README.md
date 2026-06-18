@@ -1,4 +1,4 @@
-# Aulas-HTML 1-7
+# Aulas-HTML
 
 🧠 Aprendizados Práticos e Recursos Implementados
 Durante o desenvolvimento desta atividade prática, foram abordados e implementados os seguintes tópicos:
